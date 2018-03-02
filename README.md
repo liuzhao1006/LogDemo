@@ -1,7 +1,7 @@
 # LogDemo
-获取log日志存放到sdcard上,
+    获取log日志存放到sdcard上,
 ## 主要工具类有LogUtils和LogFilesUtils.
-使用方式是
+#### 使用方式是
 
     第一步: 初始化日志类,参数可以自定义,例如:
           LogUtils.setAppLogDir(LogUtils.LOG_ROOT_PATHE + LogUtils.APP_LOG_PATHE,0+"",1,-1);
